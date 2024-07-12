@@ -19,7 +19,7 @@ This web application allows users to upload images (single, multiple, or even a 
 
 1. **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/ai-url-scanner.git](https://github.com/krish-e/AI-URL-Scanner.git)
+    git clone https://github.com/krish-e/AI-URL-Scanner.git
     cd AI-URL-Scanner
     ```
 
