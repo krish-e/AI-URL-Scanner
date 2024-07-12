@@ -14,14 +14,13 @@ This web application allows users to upload images (single, multiple, or even a 
 ### Prerequisites
 - Python 3.8+
 - pip
-- Virtual environment (optional but recommended)
 
 ### Setup
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/ai-url-scanner.git
-    cd ai-url-scanner
+    git clone [https://github.com/yourusername/ai-url-scanner.git](https://github.com/krish-e/AI-URL-Scanner.git)
+    cd AI-URL-Scanner
     ```
 
 2. **Install the required packages:**
