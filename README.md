@@ -31,19 +31,20 @@ This web application allows users to upload images (single, multiple, or even a 
 ## Usage
 
 1. **Start the web application:**
+   In Command Line Interface, execute:
     ```bash
     python app.py
     ```
 
-2. **Open your web browser and navigate to:**
+3. **Open your web browser and navigate to:**
     ```
     http://127.0.0.1:5000
     ```
 
-3. **Upload your images:**
+4. **Upload your images:**
     - You can upload a single image, multiple images, or a zip file containing images.
 
-4. **View Results:**
+5. **View Results:**
     - It takes time to process multiple images.
     - After processing, the application will display all extracted URLs and their validity status.
 
